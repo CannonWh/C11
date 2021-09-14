@@ -35,6 +35,13 @@ if (keyDown("space")) {
 
 trex.velocityY = -10;
 }
+  
+//jump when you tap
+if (Touch)  {
+
+
+trex.velocityY= -10;
+}
 
 trex.velocityY = trex.velocityY + 0.8
 
