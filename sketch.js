@@ -45,3 +45,4 @@ ground.x = ground.width / 2;
 trex.collide(invisibleGround);
 drawSprites();
 }
+ 
